@@ -1,0 +1,1 @@
+Hola a todos, estamos leyendo desde un archivo de texto, programacion C.
