@@ -1,4 +1,4 @@
 # Solo Practica en C
-![Programacion C](https://github.com/DiegoJDArias/SoloPracticaC/assets/97647686/5be8843d-6a6c-48cc-86b1-aa8522c096ab)
+![c](https://github.com/DiegoJDArias/SoloPracticaC/assets/97647686/b4fb8dee-532b-47e2-a498-8d7751305363)
 
 Programacion C
