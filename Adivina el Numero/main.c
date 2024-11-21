@@ -3,6 +3,10 @@
 #include <time.h>
 #include <conio.h>
 
+/* /////////////////////////////////////////////////
+   Author Diego J D Arias - diegojdarias@gmail.com.
+*/////////////////////////////////////////////////
+
 void adivinar(int valor)
 {
     srand(time(NULL));
